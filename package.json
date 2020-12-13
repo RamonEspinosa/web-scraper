@@ -1,0 +1,20 @@
+{
+  "name": "cyberpuerta-web-scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start-pm2": "pm2 start index.js --cron '*/15 * * * *'",
+    "start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "dotenv": "^8.2.0",
+    "puppeteer": "^5.5.0"
+  }
+}
