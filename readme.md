@@ -1,8 +1,8 @@
-# CYBERPUERTA WEB SCRAPER
+# WEB SCRAPER
 
 ## Description
 
-This is a javascript web scraper that explores a mexican IT ecommerce called [cyberpuerta](https://www.cyberpuerta.mx/). It is useful in case you are looking for great deals and discounts!
+This is a javascript web scraper that explores a [mexican IT ecommerce](https://bit.ly/2JR0klT). It is useful in case you are looking for great deals and discounts!
 
 ## Prerequisites
 
